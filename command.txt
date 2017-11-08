@@ -1,0 +1,9 @@
+--data_dir=/Users/fuyanmei/data/VOCdevkit/
+--output_path_image=/Users/fuyanmei/PycharmProjects/tf_ssd/data/images/
+--output_path_pickle=/Users/fuyanmei/PycharmProjects/tf_ssd/data/
+--label_map_path=/Users/fuyanmei/data/pascal_label.txt
+
+
+--data_path=/Users/fuyanmei/PycharmProjects/tf_ssd/data/data_raw_400x260.p
+--output_dir=/Users/fuyanmei/PycharmProjects/tf_ssd/model/
+--resized_image_dir=/Users/fuyanmei/PycharmProjects/tf_ssd/data/images/
